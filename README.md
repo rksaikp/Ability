@@ -1,13 +1,4 @@
-# Ochi Website Clone created with
 
-✅ Next JS
-✅ React JS
-✅ TypeScript
-✅ Tailwind CSS
-✅ GSAP
-✅ Framer Motion
-✅ Locomotive Scroll
+https://github.com/poojahooda22/motion-website/assets/91055527/27e8c53a-466b-45f3-8708-7114bd9addd4
 
-<hr/>
-
-![OCHI - ign Agency and 2 more pages - Personal - Microsoft​ Edge 5_26_2024 4_34_03 AM](https://github.com/devwithzain/ochi-website-clone/assets/131141179/d47be37b-efa0-45f0-bb18-1c5aed00191b)
+![motionSig](https://github.com/poojahooda22/motion-website/assets/91055527/4e382850-52b1-4b9f-8878-7f952225ec3e)
